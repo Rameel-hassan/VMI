@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VMI</string>
+    <string name="next">next</string>
+    <string name="simple">simple</string>
+    <string name="vehicle">vehicle</string>
+    <string name="searchable_make_model">searchable make model</string>
+    <string name="make_model">make model</string>
+    <string name="km">km</string>
+    <string name="km_second">km old</string>
+    <string name="fuel_second">fuel old</string>
+    <string name="fuel">fuel</string>
+    <string name="charging_first">charging first</string>
+    <string name="charging_second">charging second</string>
+    <string name="customer">customer</string>
+    <string name="workshop">workshop</string>
+    <string name="branch">branch</string>
+    <string name="fragment">fragment</string>
+    <string name="driver">driver</string>
+    <string name="email">email</string>
+</resources>
